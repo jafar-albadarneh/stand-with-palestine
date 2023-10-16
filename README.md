@@ -95,7 +95,7 @@ _Below is an example of how you can install this widget on your website. The wid
    <!-- Support for Palestine widget -->
    <div id="palestine"></div>
 
-   <script src="https://cdn.jsdelivr.net/gh/jafar-albadarneh/stand-with-palestine@main/src/script.v1.0.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/jafar-albadarneh/stand-with-palestine@main/src/script.v1.1.js"></script>
    <!-- end widget tag -->
    ```
 
