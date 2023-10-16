@@ -19,5 +19,5 @@ const ishere = document.getElementById("palestine") || false;
 if (ishere) {
   document.getElementById(
     "palestine"
-  ).innerHTML = `<div class="palestine"><a href="https://www.standwithpalestine.dev/" target="_blank" title="United for Palestine and the people of Gaza"><img src="https://imgur.com/2SFk1zC" alt="we-stand-with-palestine" id="uawidget"></a></div>`;
+  ).innerHTML = `<div class="palestine"><a href="https://www.standwithpalestine.dev/" target="_blank" title="United for Palestine and the people of Gaza"><img src="https://i.imgur.com/2SFk1zC.png" alt="we-stand-with-palestine" id="uawidget"></a></div>`;
 }
