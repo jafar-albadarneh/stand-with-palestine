@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://www.standwithpalestine.dev">
-    <img src="src/webs.png" class="this" alt="Stand With Palestine" style="width: 60%;">
+    <img src="src/example.png" class="this" alt="Stand With Palestine" style="width: 100%;">
   </a>
 </div>
 
